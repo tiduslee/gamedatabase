@@ -98,7 +98,7 @@
             "cooldown": 0,
             "name": "Sever",
             "soulAcquire": 1,
-            "description": "Attacks with a scythe, with a 25% chance each of inflicting two bleeding effects for 2 turns.",
+            "description": "Attacks with a scythe, with a 40% chance each of inflicting two bleeding effects for 2 turns.",
             "enhancement": [
                 {
                     "description": "+5% damage dealt",
@@ -210,7 +210,7 @@
             "cooldown": 3,
             "name": "Smash",
             "soulAcquire": 2,
-            "description": "Batters the enemy with a scythe, with a 85% chance to make them unhealable and cause bleeding for 2 turns. When the enemy's Health is less than 50% after attack, Sever is activated.",
+            "description": "Batters the enemy with a scythe, with a 85% chance each to inflict bleed and make them unhealable for 2 turns. When the enemy's Health is less than 50%, activates Sever as an extra with a 100% chance of inflicting bleed.",
             "enhancement": [
                 {
                     "description": "+5% damage dealt",
@@ -323,7 +323,7 @@
             "cooldown": 5,
             "name": "Guillotine",
             "soulAcquire": 3,
-            "description": "Inflicts lethal damage to the enemy, piercing their weak point, penetrating Defense by 10% for each debuff inflicted on the enemy.",
+            "description": "Inflicts lethal damage to the enemy, piercing their weak point, penetrating Defense by 30%, with an additional 10% for each debuff inflicted on the enemy.",
             "enhancement": [
                 {
                     "description": "+10% damage dealt",
